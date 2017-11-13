@@ -4,6 +4,8 @@
 You can register and login to write in facebooklike chat window to other users.
 This chat was built using PHP.
 ```
+### Live:
+[mandra.pl - chat](http://mandra.pl/z3/index.php)
 ## TODO: 
 * add Ajax (get rid of refreshing the page)
 * allow to read while not logedin
